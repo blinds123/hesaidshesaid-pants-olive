@@ -1,0 +1,48 @@
+================================================================================
+E2E TEST AGENT A - $59 DIRECT PURCHASE FLOW
+================================================================================
+
+{
+  "test": "A - $59 Direct Flow",
+  "page_loaded": true,
+  "size_selected": true,
+  "primary_cta_clicked": true,
+  "popup_appeared": true,
+  "decline_clicked": true,
+  "redirected": true,
+  "final_url": "https://simpleswap.io/exchange?id=4b352zzfwzijz8av",
+  "passed": true,
+  "errors": [],
+  "details": [
+    "Browser launched successfully",
+    "Step 1: Navigating to site...",
+    "Page title: He Said She Said Pants Olive - Limited Drop",
+    "\u2713 Page loaded successfully",
+    "Step 2: Looking for size selector...",
+    "Found size selector: button.size-btn",
+    "Step 3: Selecting size M...",
+    "\u2713 Size M selected",
+    "Step 4: Scrolling to primary CTA...",
+    "Step 5: Looking for primary CTA button...",
+    "Found CTA button: #primaryCTA",
+    "Clicking primary CTA...",
+    "\u2713 Primary CTA clicked",
+    "Step 6: Waiting for order bump popup...",
+    "\u2713 Popup appeared: #orderBumpPopup",
+    "Step 7: Looking for decline button...",
+    "Found decline button: button:has-text(\"No thanks\")",
+    "Clicking decline button...",
+    "\u2713 Decline button clicked",
+    "Waiting for redirect...",
+    "Step 8: Verifying redirect...",
+    "Final URL: https://simpleswap.io/exchange?id=4b352zzfwzijz8av",
+    "\u2713 Successfully redirected to simpleswap.io",
+    "\u2713 Valid exchange ID detected in URL",
+    "\n\u2713\u2713\u2713 TEST PASSED \u2713\u2713\u2713",
+    "Browser closed"
+  ]
+}
+
+================================================================================
+RESULT: ✓ PASSED
+================================================================================

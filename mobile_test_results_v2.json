@@ -1,0 +1,48 @@
+{
+  "test_m1_59_flow": {
+    "passed": false,
+    "redirect_url": null,
+    "popup_mobile_friendly": true,
+    "issues": [
+      "Error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    56 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m       - element is not visible\u001b[22m\n\u001b[2m     - retrying click action\u001b[22m\n\u001b[2m       - waiting 500ms\u001b[22m\n"
+    ]
+  },
+  "test_m2_19_flow": {
+    "passed": false,
+    "redirect_url": null,
+    "popup_mobile_friendly": true,
+    "issues": [
+      "Error: page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'text=\"Don't Miss Out\"' is not a valid selector.\n    at eval (eval at evaluate (:290:30), <anonymous>:2:32)\n    at UtilityScript.evaluate (<anonymous>:292:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    ]
+  },
+  "test_m3_ux_quality": {
+    "scrolling_smooth": true,
+    "thumbnails_tappable": true,
+    "accordion_works": false,
+    "popup_dismissable": false,
+    "issues": [
+      "Error: ctaButton.scrollIntoView is not a function"
+    ]
+  },
+  "test_m4_edge_cases": {
+    "small_viewport_ok": false,
+    "no_horizontal_scroll": false,
+    "landscape_ok": true,
+    "issues": [
+      "Horizontal scroll detected: 7px overflow (382px content in 375px viewport)",
+      "Button 4 extends beyond viewport (382px > 375px)",
+      "Button 5 extends beyond viewport (382px > 375px)"
+    ]
+  },
+  "overall_mobile_score": "4/10",
+  "critical_issues": [
+    "PRIMARY BLOCKER: $59 purchase flow failed - Error: elementHandle.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    56 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m       - element is not visible\u001b[22m\n\u001b[2m     - retrying click action\u001b[22m\n\u001b[2m       - waiting 500ms\u001b[22m\n",
+    "PRIMARY BLOCKER: $19 pre-order flow failed - Error: page.evaluate: SyntaxError: Failed to execute 'querySelector' on 'Document': 'text=\"Don't Miss Out\"' is not a valid selector.\n    at eval (eval at evaluate (:290:30), <anonymous>:2:32)\n    at UtilityScript.evaluate (<anonymous>:292:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
+    "MOBILE UX ISSUE: Horizontal scroll breaks mobile experience"
+  ],
+  "recommendations": [
+    "Fix horizontal scroll: likely caused by fixed-width elements or negative margins",
+    "Optimize for iPhone SE (375px) - smallest common mobile viewport",
+    "Test on real devices (iPhone 12, iPhone SE) to verify touch interactions"
+  ]
+}

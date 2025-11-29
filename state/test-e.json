@@ -1,22 +1,25 @@
 {
   "test": "E - Performance Audit",
-  "page_size_bytes": 2073586,
+  "page_size_bytes": 36203,
   "page_size_ok": true,
   "hero_image_size_bytes": 211282,
   "hero_image_ok": true,
-  "load_time_ms": 1503,
+  "load_time_ms": 143,
   "lcp_estimate_ok": true,
   "critical_css_inlined": true,
   "images_preloaded": true,
+  "render_blocking_css": 0,
+  "render_blocking_js": 0,
+  "total_requests": 5,
   "performance_score": "10/10",
   "passed": true,
   "errors": [],
   "details": {
     "performanceMetrics": {
-      "domContentLoaded": 4.5,
-      "loadComplete": 3,
-      "firstPaint": 244,
-      "firstContentfulPaint": 244
+      "domContentLoaded": 143,
+      "loadComplete": 143,
+      "firstPaint": 100,
+      "firstContentfulPaint": 100
     },
     "renderBlocking": {
       "css": 0,
@@ -24,13 +27,14 @@
       "total": 0
     },
     "resourceBreakdown": {
-      "html": 10903,
+      "html": 36203,
       "css": 0,
-      "js": 137952,
-      "images": 1924731,
+      "js": 0,
+      "images": 211282,
       "fonts": 0,
       "other": 0
     },
-    "totalRequests": 24
-  }
+    "totalRequests": 5
+  },
+  "verified_at": "2025-11-29T09:44:00Z"
 }

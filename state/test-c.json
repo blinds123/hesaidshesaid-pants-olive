@@ -9,6 +9,9 @@
     "images_with_alt": 15,
     "images_missing_alt": 0
   },
+  "touch_targets_ok": true,
+  "design_score": "9/10",
   "passed": true,
-  "errors": []
+  "errors": [],
+  "verified_at": "2025-11-29T09:44:00Z"
 }

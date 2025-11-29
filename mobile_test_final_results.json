@@ -1,0 +1,44 @@
+{
+  "test_m1_59_flow": {
+    "passed": false,
+    "redirect_url": null,
+    "popup_mobile_friendly": true,
+    "issues": [
+      "No Thanks button not found"
+    ]
+  },
+  "test_m2_19_flow": {
+    "passed": false,
+    "redirect_url": null,
+    "popup_mobile_friendly": true,
+    "issues": []
+  },
+  "test_m3_ux_quality": {
+    "scrolling_smooth": true,
+    "thumbnails_tappable": true,
+    "accordion_works": false,
+    "popup_dismissable": true,
+    "issues": []
+  },
+  "test_m4_edge_cases": {
+    "small_viewport_ok": true,
+    "no_horizontal_scroll": false,
+    "landscape_ok": true,
+    "issues": [
+      "7px horizontal overflow (382px in 375px)",
+      "Widest element: HTML. (382px)"
+    ]
+  },
+  "overall_mobile_score": "5/10",
+  "critical_issues": [
+    "CRITICAL: $59 purchase flow FAILED - No Thanks button not found",
+    "CRITICAL: $19 pre-order flow FAILED - ",
+    "CRITICAL: Horizontal scroll breaks mobile UX"
+  ],
+  "recommendations": [
+    "Fix horizontal scroll by constraining container widths to 100vw and using max-width instead of fixed widths",
+    "Fix overflow element: Widest element: HTML. (382px)",
+    "Test on real iPhone devices for touch accuracy validation",
+    "Consider implementing touch-friendly hover states (active states for buttons)"
+  ]
+}

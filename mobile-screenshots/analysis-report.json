@@ -1,0 +1,2884 @@
+{
+  "timestamp": "2025-11-29T10:03:15.008Z",
+  "url": "https://hesaidshesaid-pants.netlify.app",
+  "viewports": [
+    {
+      "device": "iPhone SE",
+      "dimensions": "375x667",
+      "screenshots": [
+        {
+          "type": "fullpage",
+          "path": "/Users/nelsonchan/Downloads/secretjeans TEMPLATE SMALL copy/mobile-screenshots/iPhone SE-fullpage.png"
+        },
+        {
+          "type": "above-fold",
+          "path": "/Users/nelsonchan/Downloads/secretjeans TEMPLATE SMALL copy/mobile-screenshots/iPhone SE-above-fold.png"
+        },
+        {
+          "type": "size-selector",
+          "path": "/Users/nelsonchan/Downloads/secretjeans TEMPLATE SMALL copy/mobile-screenshots/iPhone SE-size-selector.png"
+        }
+      ],
+      "analysis": {
+        "aboveFold": {
+          "productImageVisible": true,
+          "priceVisible": false,
+          "ctaVisible": true,
+          "heroImageRatio": 0.6996345577211395,
+          "elements": [
+            {
+              "type": "hero-image",
+              "visible": true,
+              "top": 88.78125,
+              "height": 466.65625,
+              "width": 350,
+              "heightRatio": "70.0%"
+            },
+            {
+              "type": "cta",
+              "visible": true,
+              "top": 0,
+              "height": 0,
+              "width": 0,
+              "text": "YES! Add Bustier - Only $10",
+              "thumbZone": false
+            }
+          ]
+        },
+        "ctaButtons": [
+          {
+            "index": 3,
+            "text": "GET MINE NOW - $59\n          In Stock: Ships Same-Day (Only 47 Left)",
+            "dimensions": {
+              "width": 350,
+              "height": 68,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 974,
+              "left": 32,
+              "inThumbZone": true,
+              "distanceFromBottom": -374.59375
+            },
+            "styles": {
+              "fontSize": "16px",
+              "backgroundColor": "rgb(92, 83, 70)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "16px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 4,
+            "text": "PRE-ORDER FOR 68% OFF - $19\n          Worth the wait: Ships in 2-3 weeks (save $40)",
+            "dimensions": {
+              "width": 350,
+              "height": 72,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1057,
+              "left": 32,
+              "inThumbZone": true,
+              "distanceFromBottom": -461.59375
+            },
+            "styles": {
+              "fontSize": "16px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(92, 83, 70)",
+              "padding": "16px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 5,
+            "text": "XXS",
+            "dimensions": {
+              "width": 75,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 20,
+              "inThumbZone": true,
+              "distanceFromBottom": -846.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 6,
+            "text": "XS",
+            "dimensions": {
+              "width": 75,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 107,
+              "inThumbZone": true,
+              "distanceFromBottom": -846.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 7,
+            "text": "S",
+            "dimensions": {
+              "width": 75,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 194,
+              "inThumbZone": true,
+              "distanceFromBottom": -846.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 8,
+            "text": "M",
+            "dimensions": {
+              "width": 75,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 280,
+              "inThumbZone": true,
+              "distanceFromBottom": -846.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 9,
+            "text": "L",
+            "dimensions": {
+              "width": 75,
+              "height": 61,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1525,
+              "left": 20,
+              "inThumbZone": true,
+              "distanceFromBottom": -919.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 10,
+            "text": "XLSold Out",
+            "dimensions": {
+              "width": 75,
+              "height": 61,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1525,
+              "left": 107,
+              "inThumbZone": true,
+              "distanceFromBottom": -919.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgba(16, 16, 16, 0.3)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 11,
+            "text": "XXLSold Out",
+            "dimensions": {
+              "width": 75,
+              "height": 61,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1525,
+              "left": 194,
+              "inThumbZone": true,
+              "distanceFromBottom": -919.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgba(16, 16, 16, 0.3)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 12,
+            "text": "Load More Reviews",
+            "dimensions": {
+              "width": 204,
+              "height": 47,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 6179,
+              "left": 85,
+              "inThumbZone": true,
+              "distanceFromBottom": -5559.40625
+            },
+            "styles": {
+              "fontSize": "13.3333px",
+              "backgroundColor": "rgb(92, 83, 70)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "16px 40px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 13,
+            "text": "Get Yours Now",
+            "dimensions": {
+              "width": 227,
+              "height": 57,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 6515,
+              "left": 74,
+              "inThumbZone": true,
+              "distanceFromBottom": -5904.796875
+            },
+            "styles": {
+              "fontSize": "18px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(92, 83, 70)",
+              "padding": "18px 50px",
+              "borderRadius": "8px"
+            }
+          }
+        ],
+        "typography": {
+          "headings": [
+            {
+              "tag": "h1",
+              "fontSize": 28,
+              "lineHeight": "33.6px",
+              "text": "The Viral Wide-Leg Pants Selling Out in Hours",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Add the Matching Bustier?",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "The Details",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Why Everyone's Obsessed",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Real Reviews",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Don't Miss Out",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 20,
+              "lineHeight": "32px",
+              "text": "He Said She Said Bustier",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Select Your Size:",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Fit & Style",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Fabric & Care",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Styling Tips",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18.72,
+              "lineHeight": "29.952px",
+              "text": "Tailored Perfection",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18.72,
+              "lineHeight": "29.952px",
+              "text": "Premium Quality",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18.72,
+              "lineHeight": "29.952px",
+              "text": "Versatile Style",
+              "readabilityScore": "good"
+            }
+          ],
+          "bodyText": {
+            "tag": "p",
+            "fontSize": 16,
+            "lineHeight": "25.6px",
+            "readabilityScore": "good"
+          }
+        },
+        "layout": {
+          "hasHorizontalScroll": true,
+          "bodyScrollWidth": 382,
+          "viewportWidth": 375,
+          "containerPadding": [
+            {
+              "index": 0,
+              "paddingLeft": "16px",
+              "paddingRight": "16px",
+              "paddingTop": "0px",
+              "paddingBottom": "0px"
+            }
+          ]
+        },
+        "images": [
+          {
+            "index": 0,
+            "alt": "He Said She Said Pants Olive",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-01.jpeg",
+            "dimensions": {
+              "displayWidth": 350,
+              "displayHeight": 467,
+              "naturalWidth": 800,
+              "naturalHeight": 1200
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": true
+            }
+          },
+          {
+            "index": 1,
+            "alt": "Product view 1",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-01.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1200
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 2,
+            "alt": "Product view 2",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-02.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1192
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 3,
+            "alt": "Product view 3",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-03.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1192
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 4,
+            "alt": "Product view 4",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-04.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1192
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 5,
+            "alt": "Sarah K.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-01.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 6,
+            "alt": "Emma L.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-02.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 7,
+            "alt": "Mia R.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-03.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 8,
+            "alt": "Olivia T.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-04.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 9,
+            "alt": "Ava M.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-05.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 10,
+            "alt": "Isabella C.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-06.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 11,
+            "alt": "Sophie W.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-07.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 12,
+            "alt": "Charlotte D.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-08.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 13,
+            "alt": "Amelia S.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-09.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 14,
+            "alt": "Harper J.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-10.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          }
+        ],
+        "sizeSelector": [
+          {
+            "index": 0,
+            "text": "XXS",
+            "width": 75,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 1,
+            "text": "XS",
+            "width": 75,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 2,
+            "text": "S",
+            "width": 75,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 3,
+            "text": "M",
+            "width": 75,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 4,
+            "text": "L",
+            "width": 75,
+            "height": 61,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 5,
+            "text": "XLSold Out",
+            "width": 75,
+            "height": 61,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 6,
+            "text": "XXLSold Out",
+            "width": 75,
+            "height": 61,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          }
+        ]
+      }
+    },
+    {
+      "device": "iPhone 12/13/14",
+      "dimensions": "390x844",
+      "screenshots": [
+        {
+          "type": "fullpage",
+          "path": "/Users/nelsonchan/Downloads/secretjeans TEMPLATE SMALL copy/mobile-screenshots/iPhone 12-13-14-fullpage.png"
+        },
+        {
+          "type": "above-fold",
+          "path": "/Users/nelsonchan/Downloads/secretjeans TEMPLATE SMALL copy/mobile-screenshots/iPhone 12-13-14-above-fold.png"
+        },
+        {
+          "type": "size-selector",
+          "path": "/Users/nelsonchan/Downloads/secretjeans TEMPLATE SMALL copy/mobile-screenshots/iPhone 12-13-14-size-selector.png"
+        }
+      ],
+      "analysis": {
+        "aboveFold": {
+          "productImageVisible": true,
+          "priceVisible": false,
+          "ctaVisible": true,
+          "heroImageRatio": 0.5529102488151659,
+          "elements": [
+            {
+              "type": "hero-image",
+              "visible": true,
+              "top": 88.78125,
+              "height": 466.65625,
+              "width": 350,
+              "heightRatio": "55.3%"
+            },
+            {
+              "type": "cta",
+              "visible": true,
+              "top": 0,
+              "height": 0,
+              "width": 0,
+              "text": "YES! Add Bustier - Only $10",
+              "thumbZone": false
+            }
+          ]
+        },
+        "ctaButtons": [
+          {
+            "index": 3,
+            "text": "GET MINE NOW - $59\n          In Stock: Ships Same-Day (Only 47 Left)",
+            "dimensions": {
+              "width": 350,
+              "height": 68,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 974,
+              "left": 32,
+              "inThumbZone": true,
+              "distanceFromBottom": -197.59375
+            },
+            "styles": {
+              "fontSize": "16px",
+              "backgroundColor": "rgb(92, 83, 70)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "16px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 4,
+            "text": "PRE-ORDER FOR 68% OFF - $19\n          Worth the wait: Ships in 2-3 weeks (save $40)",
+            "dimensions": {
+              "width": 350,
+              "height": 72,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1057,
+              "left": 32,
+              "inThumbZone": true,
+              "distanceFromBottom": -284.59375
+            },
+            "styles": {
+              "fontSize": "16px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(92, 83, 70)",
+              "padding": "16px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 5,
+            "text": "XXS",
+            "dimensions": {
+              "width": 60,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 20,
+              "inThumbZone": true,
+              "distanceFromBottom": -669.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 6,
+            "text": "XS",
+            "dimensions": {
+              "width": 60,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 92,
+              "inThumbZone": true,
+              "distanceFromBottom": -669.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 7,
+            "text": "S",
+            "dimensions": {
+              "width": 60,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 165,
+              "inThumbZone": true,
+              "distanceFromBottom": -669.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 8,
+            "text": "M",
+            "dimensions": {
+              "width": 60,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 237,
+              "inThumbZone": true,
+              "distanceFromBottom": -669.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 9,
+            "text": "L",
+            "dimensions": {
+              "width": 60,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 310,
+              "inThumbZone": true,
+              "distanceFromBottom": -669.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 10,
+            "text": "XLSold Out",
+            "dimensions": {
+              "width": 60,
+              "height": 72,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1525,
+              "left": 20,
+              "inThumbZone": true,
+              "distanceFromBottom": -753.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgba(16, 16, 16, 0.3)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 11,
+            "text": "XXLSold Out",
+            "dimensions": {
+              "width": 60,
+              "height": 72,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1525,
+              "left": 92,
+              "inThumbZone": true,
+              "distanceFromBottom": -753.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgba(16, 16, 16, 0.3)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 12,
+            "text": "Load More Reviews",
+            "dimensions": {
+              "width": 204,
+              "height": 47,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 6037,
+              "left": 93,
+              "inThumbZone": true,
+              "distanceFromBottom": -5240.15625
+            },
+            "styles": {
+              "fontSize": "13.3333px",
+              "backgroundColor": "rgb(92, 83, 70)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "16px 40px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 13,
+            "text": "Get Yours Now",
+            "dimensions": {
+              "width": 227,
+              "height": 57,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 6373,
+              "left": 81,
+              "inThumbZone": true,
+              "distanceFromBottom": -5585.546875
+            },
+            "styles": {
+              "fontSize": "18px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(92, 83, 70)",
+              "padding": "18px 50px",
+              "borderRadius": "8px"
+            }
+          }
+        ],
+        "typography": {
+          "headings": [
+            {
+              "tag": "h1",
+              "fontSize": 28,
+              "lineHeight": "33.6px",
+              "text": "The Viral Wide-Leg Pants Selling Out in Hours",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Add the Matching Bustier?",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "The Details",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Why Everyone's Obsessed",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Real Reviews",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Don't Miss Out",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 20,
+              "lineHeight": "32px",
+              "text": "He Said She Said Bustier",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Select Your Size:",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Fit & Style",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Fabric & Care",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Styling Tips",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18.72,
+              "lineHeight": "29.952px",
+              "text": "Tailored Perfection",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18.72,
+              "lineHeight": "29.952px",
+              "text": "Premium Quality",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18.72,
+              "lineHeight": "29.952px",
+              "text": "Versatile Style",
+              "readabilityScore": "good"
+            }
+          ],
+          "bodyText": {
+            "tag": "p",
+            "fontSize": 16,
+            "lineHeight": "25.6px",
+            "readabilityScore": "good"
+          }
+        },
+        "layout": {
+          "hasHorizontalScroll": false,
+          "bodyScrollWidth": 390,
+          "viewportWidth": 390,
+          "containerPadding": [
+            {
+              "index": 0,
+              "paddingLeft": "16px",
+              "paddingRight": "16px",
+              "paddingTop": "0px",
+              "paddingBottom": "0px"
+            }
+          ]
+        },
+        "images": [
+          {
+            "index": 0,
+            "alt": "He Said She Said Pants Olive",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-01.jpeg",
+            "dimensions": {
+              "displayWidth": 350,
+              "displayHeight": 467,
+              "naturalWidth": 800,
+              "naturalHeight": 1200
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": true
+            }
+          },
+          {
+            "index": 1,
+            "alt": "Product view 1",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-01.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1200
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 2,
+            "alt": "Product view 2",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-02.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1192
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 3,
+            "alt": "Product view 3",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-03.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1192
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 4,
+            "alt": "Product view 4",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-04.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1192
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 5,
+            "alt": "Sarah K.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-01.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 400,
+              "naturalHeight": 713
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 6,
+            "alt": "Emma L.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-02.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 7,
+            "alt": "Mia R.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-03.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 8,
+            "alt": "Olivia T.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-04.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 9,
+            "alt": "Ava M.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-05.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 10,
+            "alt": "Isabella C.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-06.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 11,
+            "alt": "Sophie W.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-07.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 12,
+            "alt": "Charlotte D.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-08.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 13,
+            "alt": "Amelia S.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-09.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 14,
+            "alt": "Harper J.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-10.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          }
+        ],
+        "sizeSelector": [
+          {
+            "index": 0,
+            "text": "XXS",
+            "width": 60,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 1,
+            "text": "XS",
+            "width": 60,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 2,
+            "text": "S",
+            "width": 60,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 3,
+            "text": "M",
+            "width": 60,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 4,
+            "text": "L",
+            "width": 60,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 5,
+            "text": "XLSold Out",
+            "width": 60,
+            "height": 72,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 6,
+            "text": "XXLSold Out",
+            "width": 60,
+            "height": 72,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          }
+        ]
+      }
+    },
+    {
+      "device": "iPhone 14 Pro Max",
+      "dimensions": "430x932",
+      "screenshots": [
+        {
+          "type": "fullpage",
+          "path": "/Users/nelsonchan/Downloads/secretjeans TEMPLATE SMALL copy/mobile-screenshots/iPhone 14 Pro Max-fullpage.png"
+        },
+        {
+          "type": "above-fold",
+          "path": "/Users/nelsonchan/Downloads/secretjeans TEMPLATE SMALL copy/mobile-screenshots/iPhone 14 Pro Max-above-fold.png"
+        },
+        {
+          "type": "size-selector",
+          "path": "/Users/nelsonchan/Downloads/secretjeans TEMPLATE SMALL copy/mobile-screenshots/iPhone 14 Pro Max-size-selector.png"
+        }
+      ],
+      "analysis": {
+        "aboveFold": {
+          "productImageVisible": true,
+          "priceVisible": true,
+          "ctaVisible": true,
+          "heroImageRatio": 0.5236051502145923,
+          "elements": [
+            {
+              "type": "hero-image",
+              "visible": true,
+              "top": 88.78125,
+              "height": 488,
+              "width": 366,
+              "heightRatio": "52.4%"
+            },
+            {
+              "type": "price",
+              "visible": true,
+              "top": 877.75,
+              "text": "$59\n          $89\n          34% OFF"
+            },
+            {
+              "type": "cta",
+              "visible": true,
+              "top": 0,
+              "height": 0,
+              "width": 0,
+              "text": "YES! Add Bustier - Only $10",
+              "thumbZone": false
+            }
+          ]
+        },
+        "ctaButtons": [
+          {
+            "index": 3,
+            "text": "GET MINE NOW - $59\n          In Stock: Ships Same-Day (Only 47 Left)",
+            "dimensions": {
+              "width": 366,
+              "height": 68,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 995,
+              "left": 32,
+              "inThumbZone": true,
+              "distanceFromBottom": -130.9375
+            },
+            "styles": {
+              "fontSize": "16px",
+              "backgroundColor": "rgb(92, 83, 70)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "16px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 4,
+            "text": "PRE-ORDER FOR 68% OFF - $19\n          Worth the wait: Ships in 2-3 weeks (save $40)",
+            "dimensions": {
+              "width": 366,
+              "height": 72,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1078,
+              "left": 32,
+              "inThumbZone": true,
+              "distanceFromBottom": -217.9375
+            },
+            "styles": {
+              "fontSize": "16px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(92, 83, 70)",
+              "padding": "16px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 5,
+            "text": "XXS",
+            "dimensions": {
+              "width": 68,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1466,
+              "left": 20,
+              "inThumbZone": true,
+              "distanceFromBottom": -581.90625
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 6,
+            "text": "XS",
+            "dimensions": {
+              "width": 68,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1466,
+              "left": 100,
+              "inThumbZone": true,
+              "distanceFromBottom": -581.90625
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 7,
+            "text": "S",
+            "dimensions": {
+              "width": 68,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1466,
+              "left": 181,
+              "inThumbZone": true,
+              "distanceFromBottom": -581.90625
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 8,
+            "text": "M",
+            "dimensions": {
+              "width": 68,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1466,
+              "left": 261,
+              "inThumbZone": true,
+              "distanceFromBottom": -581.90625
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 9,
+            "text": "L",
+            "dimensions": {
+              "width": 68,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1466,
+              "left": 342,
+              "inThumbZone": true,
+              "distanceFromBottom": -581.90625
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 10,
+            "text": "XLSold Out",
+            "dimensions": {
+              "width": 68,
+              "height": 72,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1526,
+              "left": 20,
+              "inThumbZone": true,
+              "distanceFromBottom": -665.90625
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgba(16, 16, 16, 0.3)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 11,
+            "text": "XXLSold Out",
+            "dimensions": {
+              "width": 68,
+              "height": 72,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1526,
+              "left": 100,
+              "inThumbZone": true,
+              "distanceFromBottom": -665.90625
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgba(16, 16, 16, 0.3)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 12,
+            "text": "Load More Reviews",
+            "dimensions": {
+              "width": 204,
+              "height": 47,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 5916,
+              "left": 113,
+              "inThumbZone": true,
+              "distanceFromBottom": -5031.109375
+            },
+            "styles": {
+              "fontSize": "13.3333px",
+              "backgroundColor": "rgb(92, 83, 70)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "16px 40px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 13,
+            "text": "Get Yours Now",
+            "dimensions": {
+              "width": 227,
+              "height": 57,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 6252,
+              "left": 101,
+              "inThumbZone": true,
+              "distanceFromBottom": -5376.5
+            },
+            "styles": {
+              "fontSize": "18px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(92, 83, 70)",
+              "padding": "18px 50px",
+              "borderRadius": "8px"
+            }
+          }
+        ],
+        "typography": {
+          "headings": [
+            {
+              "tag": "h1",
+              "fontSize": 28,
+              "lineHeight": "33.6px",
+              "text": "The Viral Wide-Leg Pants Selling Out in Hours",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Add the Matching Bustier?",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "The Details",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Why Everyone's Obsessed",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Real Reviews",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Don't Miss Out",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 20,
+              "lineHeight": "32px",
+              "text": "He Said She Said Bustier",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Select Your Size:",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Fit & Style",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Fabric & Care",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Styling Tips",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18.72,
+              "lineHeight": "29.952px",
+              "text": "Tailored Perfection",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18.72,
+              "lineHeight": "29.952px",
+              "text": "Premium Quality",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18.72,
+              "lineHeight": "29.952px",
+              "text": "Versatile Style",
+              "readabilityScore": "good"
+            }
+          ],
+          "bodyText": {
+            "tag": "p",
+            "fontSize": 16,
+            "lineHeight": "25.6px",
+            "readabilityScore": "good"
+          }
+        },
+        "layout": {
+          "hasHorizontalScroll": false,
+          "bodyScrollWidth": 430,
+          "viewportWidth": 430,
+          "containerPadding": [
+            {
+              "index": 0,
+              "paddingLeft": "16px",
+              "paddingRight": "16px",
+              "paddingTop": "0px",
+              "paddingBottom": "0px"
+            }
+          ]
+        },
+        "images": [
+          {
+            "index": 0,
+            "alt": "He Said She Said Pants Olive",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-01.jpeg",
+            "dimensions": {
+              "displayWidth": 366,
+              "displayHeight": 488,
+              "naturalWidth": 800,
+              "naturalHeight": 1200
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": true
+            }
+          },
+          {
+            "index": 1,
+            "alt": "Product view 1",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-01.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1200
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 2,
+            "alt": "Product view 2",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-02.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1192
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 3,
+            "alt": "Product view 3",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-03.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1192
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 4,
+            "alt": "Product view 4",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-04.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1192
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 5,
+            "alt": "Sarah K.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-01.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 400,
+              "naturalHeight": 713
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 6,
+            "alt": "Emma L.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-02.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 400,
+              "naturalHeight": 713
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 7,
+            "alt": "Mia R.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-03.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 8,
+            "alt": "Olivia T.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-04.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 9,
+            "alt": "Ava M.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-05.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 10,
+            "alt": "Isabella C.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-06.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 11,
+            "alt": "Sophie W.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-07.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 12,
+            "alt": "Charlotte D.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-08.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 13,
+            "alt": "Amelia S.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-09.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 14,
+            "alt": "Harper J.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-10.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          }
+        ],
+        "sizeSelector": [
+          {
+            "index": 0,
+            "text": "XXS",
+            "width": 68,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 1,
+            "text": "XS",
+            "width": 68,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 2,
+            "text": "S",
+            "width": 68,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 3,
+            "text": "M",
+            "width": 68,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 4,
+            "text": "L",
+            "width": 68,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 5,
+            "text": "XLSold Out",
+            "width": 68,
+            "height": 72,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 6,
+            "text": "XXLSold Out",
+            "width": 68,
+            "height": 72,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          }
+        ]
+      }
+    },
+    {
+      "device": "Samsung Galaxy S21",
+      "dimensions": "360x800",
+      "screenshots": [
+        {
+          "type": "fullpage",
+          "path": "/Users/nelsonchan/Downloads/secretjeans TEMPLATE SMALL copy/mobile-screenshots/Samsung Galaxy S21-fullpage.png"
+        },
+        {
+          "type": "above-fold",
+          "path": "/Users/nelsonchan/Downloads/secretjeans TEMPLATE SMALL copy/mobile-screenshots/Samsung Galaxy S21-above-fold.png"
+        },
+        {
+          "type": "size-selector",
+          "path": "/Users/nelsonchan/Downloads/secretjeans TEMPLATE SMALL copy/mobile-screenshots/Samsung Galaxy S21-size-selector.png"
+        }
+      ],
+      "analysis": {
+        "aboveFold": {
+          "productImageVisible": true,
+          "priceVisible": false,
+          "ctaVisible": true,
+          "heroImageRatio": 0.5833203125,
+          "elements": [
+            {
+              "type": "hero-image",
+              "visible": true,
+              "top": 88.78125,
+              "height": 466.65625,
+              "width": 350,
+              "heightRatio": "58.3%"
+            },
+            {
+              "type": "cta",
+              "visible": true,
+              "top": 0,
+              "height": 0,
+              "width": 0,
+              "text": "YES! Add Bustier - Only $10",
+              "thumbZone": false
+            }
+          ]
+        },
+        "ctaButtons": [
+          {
+            "index": 3,
+            "text": "GET MINE NOW - $59\n          In Stock: Ships Same-Day (Only 47 Left)",
+            "dimensions": {
+              "width": 350,
+              "height": 68,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 974,
+              "left": 32,
+              "inThumbZone": true,
+              "distanceFromBottom": -241.59375
+            },
+            "styles": {
+              "fontSize": "16px",
+              "backgroundColor": "rgb(92, 83, 70)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "16px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 4,
+            "text": "PRE-ORDER FOR 68% OFF - $19\n          Worth the wait: Ships in 2-3 weeks (save $40)",
+            "dimensions": {
+              "width": 350,
+              "height": 72,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1057,
+              "left": 32,
+              "inThumbZone": true,
+              "distanceFromBottom": -328.59375
+            },
+            "styles": {
+              "fontSize": "16px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(92, 83, 70)",
+              "padding": "16px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 5,
+            "text": "XXS",
+            "dimensions": {
+              "width": 71,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 20,
+              "inThumbZone": true,
+              "distanceFromBottom": -713.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 6,
+            "text": "XS",
+            "dimensions": {
+              "width": 71,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 103,
+              "inThumbZone": true,
+              "distanceFromBottom": -713.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 7,
+            "text": "S",
+            "dimensions": {
+              "width": 71,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 186,
+              "inThumbZone": true,
+              "distanceFromBottom": -713.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 8,
+            "text": "M",
+            "dimensions": {
+              "width": 71,
+              "height": 48,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1465,
+              "left": 269,
+              "inThumbZone": true,
+              "distanceFromBottom": -713.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 9,
+            "text": "L",
+            "dimensions": {
+              "width": 71,
+              "height": 61,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1525,
+              "left": 20,
+              "inThumbZone": true,
+              "distanceFromBottom": -786.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(0, 0, 0)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 10,
+            "text": "XLSold Out",
+            "dimensions": {
+              "width": 71,
+              "height": 61,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1525,
+              "left": 103,
+              "inThumbZone": true,
+              "distanceFromBottom": -786.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgba(16, 16, 16, 0.3)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 11,
+            "text": "XXLSold Out",
+            "dimensions": {
+              "width": 71,
+              "height": 61,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 1525,
+              "left": 186,
+              "inThumbZone": true,
+              "distanceFromBottom": -786.359375
+            },
+            "styles": {
+              "fontSize": "14px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgba(16, 16, 16, 0.3)",
+              "padding": "14px 12px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 12,
+            "text": "Load More Reviews",
+            "dimensions": {
+              "width": 204,
+              "height": 47,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 6342,
+              "left": 78,
+              "inThumbZone": true,
+              "distanceFromBottom": -5588.59375
+            },
+            "styles": {
+              "fontSize": "13.3333px",
+              "backgroundColor": "rgb(92, 83, 70)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "16px 40px",
+              "borderRadius": "8px"
+            }
+          },
+          {
+            "index": 13,
+            "text": "Get Yours Now",
+            "dimensions": {
+              "width": 227,
+              "height": 57,
+              "meetsMinSize": true
+            },
+            "position": {
+              "top": 6677,
+              "left": 66,
+              "inThumbZone": true,
+              "distanceFromBottom": -5933.984375
+            },
+            "styles": {
+              "fontSize": "18px",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(92, 83, 70)",
+              "padding": "18px 50px",
+              "borderRadius": "8px"
+            }
+          }
+        ],
+        "typography": {
+          "headings": [
+            {
+              "tag": "h1",
+              "fontSize": 28,
+              "lineHeight": "33.6px",
+              "text": "The Viral Wide-Leg Pants Selling Out in Hours",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Add the Matching Bustier?",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "The Details",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Why Everyone's Obsessed",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Real Reviews",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h2",
+              "fontSize": 28,
+              "lineHeight": "44.8px",
+              "text": "Don't Miss Out",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 20,
+              "lineHeight": "32px",
+              "text": "He Said She Said Bustier",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Select Your Size:",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Fit & Style",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Fabric & Care",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18,
+              "lineHeight": "28.8px",
+              "text": "Styling Tips",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18.72,
+              "lineHeight": "29.952px",
+              "text": "Tailored Perfection",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18.72,
+              "lineHeight": "29.952px",
+              "text": "Premium Quality",
+              "readabilityScore": "good"
+            },
+            {
+              "tag": "h3",
+              "fontSize": 18.72,
+              "lineHeight": "29.952px",
+              "text": "Versatile Style",
+              "readabilityScore": "good"
+            }
+          ],
+          "bodyText": {
+            "tag": "p",
+            "fontSize": 16,
+            "lineHeight": "25.6px",
+            "readabilityScore": "good"
+          }
+        },
+        "layout": {
+          "hasHorizontalScroll": true,
+          "bodyScrollWidth": 382,
+          "viewportWidth": 360,
+          "containerPadding": [
+            {
+              "index": 0,
+              "paddingLeft": "16px",
+              "paddingRight": "16px",
+              "paddingTop": "0px",
+              "paddingBottom": "0px"
+            }
+          ]
+        },
+        "images": [
+          {
+            "index": 0,
+            "alt": "He Said She Said Pants Olive",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-01.jpeg",
+            "dimensions": {
+              "displayWidth": 350,
+              "displayHeight": 467,
+              "naturalWidth": 800,
+              "naturalHeight": 1200
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": true
+            }
+          },
+          {
+            "index": 1,
+            "alt": "Product view 1",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-01.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1200
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 2,
+            "alt": "Product view 2",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-02.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1192
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 3,
+            "alt": "Product view 3",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-03.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1192
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 4,
+            "alt": "Product view 4",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/product/product-04.jpeg",
+            "dimensions": {
+              "displayWidth": 80,
+              "displayHeight": 100,
+              "naturalWidth": 800,
+              "naturalHeight": 1192
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": true,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 5,
+            "alt": "Sarah K.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-01.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 400,
+              "naturalHeight": 713
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 6,
+            "alt": "Emma L.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-02.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 7,
+            "alt": "Mia R.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-03.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 8,
+            "alt": "Olivia T.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-04.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 9,
+            "alt": "Ava M.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-05.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 10,
+            "alt": "Isabella C.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-06.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 11,
+            "alt": "Sophie W.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-07.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 12,
+            "alt": "Charlotte D.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-08.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 13,
+            "alt": "Amelia S.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-09.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          },
+          {
+            "index": 14,
+            "alt": "Harper J.",
+            "src": "https://hesaidshesaid-pants.netlify.app/images/testimonials/testimonial-10.jpeg",
+            "dimensions": {
+              "displayWidth": 48,
+              "displayHeight": 48,
+              "naturalWidth": 0,
+              "naturalHeight": 0
+            },
+            "quality": {
+              "isStretched": true,
+              "isOversized": false,
+              "aspectRatioMaintained": false
+            }
+          }
+        ],
+        "sizeSelector": [
+          {
+            "index": 0,
+            "text": "XXS",
+            "width": 71,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 1,
+            "text": "XS",
+            "width": 71,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 2,
+            "text": "S",
+            "width": 71,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 3,
+            "text": "M",
+            "width": 71,
+            "height": 48,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 4,
+            "text": "L",
+            "width": 71,
+            "height": 61,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 5,
+            "text": "XLSold Out",
+            "width": 71,
+            "height": 61,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          },
+          {
+            "index": 6,
+            "text": "XXLSold Out",
+            "width": 71,
+            "height": 61,
+            "meetsMinTouchTarget": true,
+            "padding": "14px 12px",
+            "margin": "0px"
+          }
+        ]
+      }
+    }
+  ]
+}

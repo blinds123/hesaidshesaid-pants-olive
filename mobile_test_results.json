@@ -1,0 +1,47 @@
+{
+  "test_m1_59_flow": {
+    "passed": false,
+    "redirect_url": null,
+    "popup_mobile_friendly": false,
+    "issues": [
+      "Order bump popup did not appear"
+    ]
+  },
+  "test_m2_19_flow": {
+    "passed": false,
+    "redirect_url": null,
+    "popup_mobile_friendly": false,
+    "issues": [
+      "Popup did not appear for $19 flow"
+    ]
+  },
+  "test_m3_ux_quality": {
+    "scrolling_smooth": true,
+    "thumbnails_tappable": true,
+    "accordion_works": false,
+    "popup_dismissable": true,
+    "issues": [
+      "Console errors: A bad HTTP response code (404) was received when fetching the script."
+    ]
+  },
+  "test_m4_edge_cases": {
+    "small_viewport_ok": false,
+    "no_horizontal_scroll": false,
+    "landscape_ok": true,
+    "issues": [
+      "Horizontal scroll detected on small viewport",
+      "ScrollWidth: 382, ClientWidth: 375",
+      "Button extends beyond viewport width"
+    ]
+  },
+  "overall_mobile_score": "4/10",
+  "critical_issues": [
+    "Primary $59 purchase flow failed",
+    "Secondary $19 pre-order flow failed",
+    "Horizontal scroll on mobile viewports"
+  ],
+  "recommendations": [
+    "Optimize popup width for mobile viewports (max 390px)",
+    "Test and optimize for iPhone SE (375x667) viewport"
+  ]
+}
