@@ -1,0 +1,12 @@
+{
+  "test": "B - $19 Popup Flow",
+  "page_loaded": true,
+  "size_selected": true,
+  "popup_appeared": true,
+  "popup_shows_correct_price": true,
+  "redirect_url": null,
+  "passed": false,
+  "errors": [
+    "Did not redirect to simpleswap.io. Current URL: https://seamlessblazer.netlify.app/"
+  ]
+}

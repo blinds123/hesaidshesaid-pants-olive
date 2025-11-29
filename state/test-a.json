@@ -1,0 +1,18 @@
+{
+  "test": "A - $59 Direct Flow",
+  "page_loaded": true,
+  "size_selected": true,
+  "popup_appeared": true,
+  "redirect_url": null,
+  "passed": false,
+  "errors": [],
+  "details": [
+    "Page navigation successful",
+    "Page verified - Title: \"He Said She Said Pants Olive - Limited Drop\", H1: \"The Viral Wide-Leg Pants Selling Out in Hours\"",
+    "Size button clicked successfully",
+    "Primary CTA clicked: \"\n          GET MINE NOW - $59\n          In Stock: Ships Same-Day (Only 47 Left)\n        \"",
+    "Order bump popup appeared successfully",
+    "Decline button clicked: \"\n      No thanks, just the pants\n    \"",
+    "No redirect occurred"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "test": "E - Performance Audit",
+  "page_size_bytes": 2073586,
+  "page_size_ok": true,
+  "hero_image_size_bytes": 211282,
+  "hero_image_ok": true,
+  "load_time_ms": 1503,
+  "lcp_estimate_ok": true,
+  "critical_css_inlined": true,
+  "images_preloaded": true,
+  "performance_score": "10/10",
+  "passed": true,
+  "errors": [],
+  "details": {
+    "performanceMetrics": {
+      "domContentLoaded": 4.5,
+      "loadComplete": 3,
+      "firstPaint": 244,
+      "firstContentfulPaint": 244
+    },
+    "renderBlocking": {
+      "css": 0,
+      "js": 0,
+      "total": 0
+    },
+    "resourceBreakdown": {
+      "html": 10903,
+      "css": 0,
+      "js": 137952,
+      "images": 1924731,
+      "fonts": 0,
+      "other": 0
+    },
+    "totalRequests": 24
+  }
+}

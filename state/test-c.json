@@ -1,0 +1,14 @@
+{
+  "test": "C - UI Quality",
+  "images_total": 15,
+  "images_loaded": 15,
+  "broken_images": [],
+  "mobile_viewport_ok": true,
+  "horizontal_scroll": false,
+  "accessibility": {
+    "images_with_alt": 15,
+    "images_missing_alt": 0
+  },
+  "passed": true,
+  "errors": []
+}

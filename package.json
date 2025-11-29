@@ -14,9 +14,6 @@
     "install-deps": "npm install playwright",
     "setup": "npm install && npx playwright install chromium"
   },
-  "dependencies": {
-    "playwright": "^1.55.1"
-  },
   "keywords": [
     "performance",
     "testing",
@@ -25,5 +22,8 @@
     "optimization"
   ],
   "author": "Claude Code",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "^1.57.0"
+  }
 }
