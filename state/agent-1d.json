@@ -1,0 +1,22 @@
+{
+  "git_initialized": true,
+  "github_remote": "https://github.com/blinds123/blue-sneaker-lander.git",
+  "additional_remotes": {
+    "secretjeans": "https://github.com/blinds123/secretjeans-shop.git"
+  },
+  "netlify_site": "seamlessblazer",
+  "netlify_url": "https://seamlessblazer.netlify.app",
+  "netlify_admin_url": "https://app.netlify.com/projects/seamlessblazer",
+  "netlify_project_id": "81268e9c-9805-41c4-a290-08ec166bd704",
+  "netlify_user": "Nelson Chan (i6nelson@hotmail.com)",
+  "deployment_ready": true,
+  "git_branch": "main",
+  "git_sync_status": "up to date with origin/main",
+  "pending_changes": {
+    "deleted_files": 116,
+    "modified_files": 2,
+    "untracked_files": 17
+  },
+  "status": "complete",
+  "notes": "Repository has 2 GitHub remotes configured (origin and secretjeans). Site is linked to Netlify and ready for deployment. Working directory has uncommitted changes from cleanup."
+}

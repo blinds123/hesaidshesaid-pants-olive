@@ -1,0 +1,26 @@
+{
+  "product_count": 4,
+  "testimonial_count": 13,
+  "product_images": [
+    "product-01.jpeg",
+    "product-02.jpeg",
+    "product-03.jpeg",
+    "product-04.jpeg"
+  ],
+  "testimonial_images": [
+    "testimonial-01.jpeg",
+    "testimonial-02.jpeg",
+    "testimonial-03.jpeg",
+    "testimonial-04.jpeg",
+    "testimonial-05.jpeg",
+    "testimonial-06.jpeg",
+    "testimonial-07.jpeg",
+    "testimonial-08.jpeg",
+    "testimonial-09.jpeg",
+    "testimonial-10.jpeg",
+    "testimonial-11.jpeg",
+    "testimonial-12.jpeg",
+    "testimonial-13.jpeg"
+  ],
+  "status": "complete"
+}
